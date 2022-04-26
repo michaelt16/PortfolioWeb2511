@@ -1,5 +1,5 @@
 # PortfolioWeb2511
-the website
+This website was created using HTML, CSS and bootsrap.
 
 
 https://portfolio-michaeltandyo.herokuapp.com/#exp 
